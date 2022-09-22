@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "laba4"
+version = "0.1.0"
+description = ""
+authors = ["meln1337 <melnicukboris@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Flask = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
